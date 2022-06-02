@@ -19,14 +19,20 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Hello my name is Chloe
 Azadeh Ahmadi 
 
+#Testing to see it pushed to the repository
+Hi! this is Randy, fourth try
 ## Changes were made
 Hi! this is Randy, fourth try
 #Testing to see it pushed to the repository
 
 
 
+## LOADS OF CHANGES 
+this is my change: Chris
+changes are above.
 
 
 

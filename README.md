@@ -20,3 +20,8 @@ The `sfdx-project.json` file contains useful configuration information for your 
 This my changes : Fakhreddine Dhifallah
 
 ## this my new changes : fakhreddine  , to test conflict 
+## Test Change
+Sergio
+
+## Paragraph
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut dignissim tortor. Mauris rutrum et massa non ornare. Vivamus nec vestibulum orci, ut scelerisque neque. Aenean ac bibendum erat, non condimentum risus. Proin suscipit ex ac dolor finibus, eget volutpat diam ultricies. Sed gravida ligula nec orci tempor convallis. In sed tincidunt erat, at accumsan arcu. Cras sed augue ac urna pretium pretium ac eu ante. Cras interdum imperdiet sapien nec viverra. Duis blandit rutrum elit eget auctor. Duis tristique odio nec nunc dictum, quis dictum velit vehicula. Aenean vel orci nibh.

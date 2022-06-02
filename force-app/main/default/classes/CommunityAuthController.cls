@@ -8,7 +8,7 @@
 **/
 
 public without sharing class CommunityAuthController {
-		private Static String CDC_COMMUNITY_NAME = 'MFATest2';
+		private Static String CDC_COMMUNITY_NAME2 = 'MFATest2';
         private Static String ACCOUNT_NAME = 'CDC Salesforce';
     	private Static String WELCOME_EMAIL = 'Communities: New Member Welcome Email';
         private Static final String PROFILE_NAME = 'CDC Team Community Plus';
@@ -20,7 +20,7 @@ public without sharing class CommunityAuthController {
         @AuraEnabled
         public static string doLogin(String username, String password){
              try {
-                List<Network> communities = [SELECT Id, Name FROM Network WHERE Name = :CDC_COMMUNITY_NAME];
+                List<Network> communities = [SELECT Id, Name FROM Network WHERE Name = :CDC_COMMUNITY_NAME2];
                 String landingURL = Network.getLoginUrl(communities[0].Id).removeEnd('/login');
                 ApexPages.PageReference pageRef = Site.login(username, password, landingURL);
                 if(pageRef != null)
